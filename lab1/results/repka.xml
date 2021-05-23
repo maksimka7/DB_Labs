@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shop>
+  <product>
+    <description>Шкарпетки Счастья Здоровья "Каченя" зелені</description>
+    <price>150</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/412/50681_P50681_2611181615291.jpg</image>
+  </product>
+  <product>
+    <description>Консерва-шкарпетка PAPAdesign "Счастливые носочки" білі</description>
+    <price>165</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/296/44849_P44849_0410181004241.jpg</image>
+  </product>
+  <product>
+    <description>Чай Candys.ua "Лісова ягода"</description>
+    <price>89</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/303/46460_P46460_1806181053491.jpg</image>
+  </product>
+  <product>
+    <description>Гра Бомбат гейм "Грибок"</description>
+    <price>195</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/319/15255_P15255_1912161053433.jpg</image>
+  </product>
+  <product>
+    <description>Подушка-антистрес Expetro "Монстрик" зелений</description>
+    <price>268</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/329/54003_P54003_1712181227381.jpg</image>
+  </product>
+  <product>
+    <description>Тонік для обличчя InJoy "Delicate" 150 мл</description>
+    <price>149</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/317/46664_P46664_1505181353011.jpg</image>
+  </product>
+  <product>
+    <description>Листівка Orner "Кіт з подарунком" А6</description>
+    <price>25</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/276/15330_P15330_2811161403001.jpg</image>
+  </product>
+  <product>
+    <description>Шкарпетки Urbanist "Tucan" зелені</description>
+    <price>100</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/329/53377_P53377_1212182019031.jpg</image>
+  </product>
+  <product>
+    <description>Консерва-свічка PAPAdesign "Камон бейби лайт май фаер"</description>
+    <price>99</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/305/47202_P47202_0410181018261.jpg</image>
+  </product>
+  <product>
+    <description>Сумка Gifty "Bellflower" саржа</description>
+    <price>320</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/337/59829_P59829_1303191608321.jpg</image>
+  </product>
+  <product>
+    <description>Духи Esse Fragrance "71 for man" 60 мл</description>
+    <price>450</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/324/52267_P52267_1810181647211.jpg</image>
+  </product>
+  <product>
+    <description>Варення "Шишки та лимон"</description>
+    <price>99</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/304/03265_P03265_2004171147021.jpg</image>
+  </product>
+  <product>
+    <description>Ланч-бег Just cover "Dont touch my lunch" зелений</description>
+    <price>400</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/339/14884_P14884_0711161442251.jpg</image>
+  </product>
+  <product>
+    <description>Бальзам для губ Blackwell body "Кокос" 15 г</description>
+    <price>70</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/338/56271_P56271_1204191423171.jpg</image>
+  </product>
+  <product>
+    <description>Баночка з побажаннями Bene Banka "Про жінок" ukr</description>
+    <price>150</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/362/47741_P47741_1511191240171.jpg</image>
+  </product>
+  <product>
+    <description>Гель для душу Mr. Scrubber "Bubbles blackberry" 275 мл</description>
+    <price>139</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/317/25335_P25335_2305171543451.jpg</image>
+  </product>
+  <product>
+    <description>Блокнот Gifty "Поспішати повільно" L</description>
+    <price>220</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/331/58044_P58044_1202191505491.jpg</image>
+  </product>
+  <product>
+    <description>Набір наклейок Гречка "Авокадо" А6</description>
+    <price>32</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/341/62579_P62579_3005191548482.jpg</image>
+  </product>
+  <product>
+    <description>Аромадифузор AromaLovers "Альпійський луг" 100 мл</description>
+    <price>260</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/339/52086_P52086_1705191612491.jpg</image>
+  </product>
+  <product>
+    <description>Бомбочка для ванної Blackwell body "Яблуко"</description>
+    <price>60</price>
+    <image>https://uamade.ua/images/thumbnails/230/230/detailed/338/33160_P33160_1204191426001.jpg</image>
+  </product>
+</shop>
